@@ -1,6 +1,8 @@
 # resumeHtml
 Assignment for Resume
 
+Hosted Link: https://ankit64s.github.io/resumeHtml/
+
 page Name: index.html
 
 ![image](https://github.com/Ankit64s/resumeHtml/assets/44794402/c31ea650-1142-43eb-9907-943d58e2a825)
